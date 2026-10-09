@@ -4,7 +4,7 @@ _[Vietnamese below](#compyle)_
 
 Compyle is a research statically-typed, staged, compiled implementation of the Python programming language, written in pure OCaml. Run existing Python code-bases with Compyle for faster execution, optimized memory usage, and detect potential logic hazards through a robust automated-proving system.
 
-Compyle is a public-facing open-source fork of a Python compiler used internally by Kinten Le and TTKB-HCMUT. 
+Compyle is a public-facing open-source fork of a Python compiler used internally by Kinten Le and TTKB-HCMUT.
 
 ## Installation
 
@@ -69,3 +69,5 @@ Formal Python 0.1.0 (main, 14 Tháng 8, 2026, 00:00:00) [BER-MetaOCaml 5.3.0 (Re
 ## Liêm chính AI
 
 Lập trình viên chính trong dự án này (Kinten Lê) không sử dụng LLM để thiết kế hay viết code, tuy nhiên bất kỳ ai đóng góp vào dự án này đều có quyền sử dụng LLM nhưng phải đảm bảo chịu trách nhiệm và minh bạch.
+
+[//]: <> ( vi: set nowrap: )
