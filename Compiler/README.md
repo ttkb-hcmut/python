@@ -18,7 +18,7 @@ internally by Kinten Le and TTKB-HCMUT.
 opam install compyle
 ```
 
-## Build from source
+## Build From Source
 
 ```bash
 dune build
@@ -38,7 +38,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> █
 ```
 
-## AI disclosure
+## AI Disclosure
 
 The main programmer of this project (Kinten Le) does not use LLM to design
 or code; however, all open contributions are welcomed to use LLM, as long
@@ -58,19 +58,19 @@ luận tự động (automated proving system).
 Compyle là một fork nguồn mở của một trình biên dịch Python được dùng bởi
 Kinten Lê và nội bộ TTKB-HCMUT.
 
-## Cài đặt
+## Cài Đặt
 
 ```bash
 opam install compyle
 ```
 
-## Tự build lại từ nguồn
+## Tự Build Lại Từ Nguồn
 
 ```bash
 dune build
 ```
 
-## Hướng dẫn sử dụng
+## Hướng Dẫn Sử Dụng
 
 Sau khi cài đặt xong, máy bạn sẽ có được một lệnh ‌/ chương trình tên
 `compyle-python` (nghĩa là tên `python` như chương trình gốc nhưng thêm
@@ -88,7 +88,7 @@ Formal Python 0.1.0 (main, 14 Tháng 8, 2026, 00:00:00) [BER-MetaOCaml 5.3.0 (Re
 >>> █
 ```
 
-## Liêm chính AI
+## Liêm Chính AI
 
 Lập trình viên chính trong dự án này (Kinten Lê) không sử dụng LLM để thiết
 kế hay viết code, tuy nhiên ai đóng góp vào dự án này đều có quyền thoải
