@@ -50,7 +50,7 @@ Compyle
 =======
 
 Compyle là một trình biên dịch đa thì (staged) kiểu tĩnh (statically-typed)
-cho ngôn ngữ lập trình Python phục vụ mục đích nghiên cứu, được viết hoàn
+cho ngôn ngữ lập trình Python phục vụ mục đích nghiên cứu, được hiện thực hoàn
 toàn trong ngôn ngữ OCaml. Compyle có khả năng tăng tốc code Python, tối ưu
 dung lượng chạy, và tiến hành kiểm tra logic thông qua một hệ thống suy
 luận tự động (automated proving system).
